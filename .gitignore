@@ -1,1 +1,3 @@
 *.snap
+src/alsa-test
+src/alsa-test.o
